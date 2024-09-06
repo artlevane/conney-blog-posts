@@ -94,7 +94,7 @@ The Conney Safety Workplace Safety Experts
 <br>
  Email: <a href="mailto:safetysupport@conney.com">safetysupport@conney.com</a> 
 <br>
-Information in this article is sourced from the Conney Safety consulting team, as well as the CDC, EPA and OSHA.
+Information in this article is sourced from the Conney Safety consulting team, as well as the CDC, EPA and OSHA. 
 <h5>Links</h5>
 <ul>
 <li><a href="https://cfpub.epa.gov/giwiz/disinfectants/index.cfm" target="_blank">List N Tool: COVID-19 Disinfectants (EPA)</a></li>
