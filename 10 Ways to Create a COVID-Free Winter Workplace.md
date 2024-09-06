@@ -90,7 +90,7 @@ Feeling a bit overwhelmed by COVID prevention at your job site? You're not alone
 <br>
 The Conney Safety Workplace Safety Experts
 <br>
- Phone: 800-462-1947
+Phone: 800-462-1947
 <br>
  Email: <a href="mailto:safetysupport@conney.com">safetysupport@conney.com</a> 
 <br>
