@@ -17,7 +17,7 @@ If you've ever worked outside during winter, you know it can be a beast. Biting 
 <br><br>
 <ol><ol>
 <li>Keep an eye on hands and feet. This is where hypothermia and frostbite will appear first. <a href="https://www.conney.com/brands/little-hotties?utm_medium=Winter-Covid&amp;utm_source=Blog&amp;utm_campaign=Little-Hotties" target="_blank">Hand warmers, toe warmers and insulated insoles</a> are essential. If any of these symptoms present, get into a warm location, remove wet clothing and drink something warm until medical help arrives.
-<br><br>
+<br><br> 
 Hypothermia Symptoms
 <ul>
 <li>Shivering</li>
