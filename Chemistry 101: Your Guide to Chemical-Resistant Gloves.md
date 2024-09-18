@@ -22,7 +22,7 @@ Chemical-resistant gloves are typically made of nitrile, neoprene, PVC, butyl or
 Let’s discuss each of the different types of chemical-resistant gloves and their common uses. For a complete guide to all glove types, feel free to check out our <a href="https://www.conney.com/websphere/blog/posts/correct-hand-protection-complete-glove-selection-guide.html?utm_medium=chemical-resistant-gloves&utm_source=Blog&utm_campaign=Conney">complete glove guide article here</a>.
 <br><br>
 <h4>Nitrile Chemical-Resistant Gloves</h4>
-<br>
+<br><span></span>
 <ul>
   <li>Effective against oils, greases, acids, caustics, and many solvents</li>
   <li>Stronger resistance to punctures compared to latex and PVC</li>
