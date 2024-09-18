@@ -53,11 +53,8 @@ Let’s discuss each of the different types of chemical-resistant gloves and the
 <br>
 <ul>
   <li>Particularly effective against gasses, esters, ketones and other highly corrosive chemicals</li>
-  <br><br>
   <li>Offer excellent protection against gas and vapor penetration</li>
-  <br><br>
   <li>Maintains flexibility at low temperatures</li>
-  <br><br>
   <li>Common Uses: Handling of hazardous gasses, esters, ketones and chemical agents</li>
 </ul>
 <br>
@@ -77,7 +74,6 @@ Let’s discuss each of the different types of chemical-resistant gloves and the
 <br>
 <ul>
   <li><strong>Unsupported chemical-resistant gloves</strong> are constructed of the same material throughout, without a supporting cloth liner. Unsupported gloves are used in chemical-resistant applications where tactile sensitivity and dexterity are required. If good dexterity is critical, it is wise to choose unsupported gloves. Our unsupported gloves have a mil thickness listed so you can choose the proper glove based on the application and required durability.</li>
-  <br><br>
   <li><strong>Supported chemical-resistant gloves</strong> feature a chemical-resistant outer shell and an inner liner (such as cotton). Supported gloves are often used for heavy-duty work where finger dexterity is not a key requirement. The supporting liner enhances strength (cut, puncture and abrasion resistance), comfort and durability. This type of glove is also a sensible choice for heat or cold handling applications. Supported gloves never have a thickness listed because of the variances in liner thickness and the dipping process.</li>
 </ul>
 <br>
