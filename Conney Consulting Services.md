@@ -16,7 +16,7 @@ summary: "Conney Consulting Services"
 Our team of safety experts is professionally trained and led by Certified Safety Professionals (CSP) with over 100 years of combined experience. Our expertise and experience comes from working with countless customers across a variety of industries including manufacturing, construction, food processing, oil and gas, and more. Our expert consultants will work closely with your company's leadership team to develop and implement tailored safety programs and trainings.
 <br><br>
 Repairs/Inspections
-<ul>
+<ul> 
 <li><a href="https://conney.com/websphere/blog/posts/gas-detection-equipment-repair.html">Gas Detection Equipment Repair/Calibrations</a></li>
 <li><a href="https://conney.com/websphere/blog/posts/fall-protection-inspections-repairs.html/fall-protection-inspections-repairs">Fall Protection Inspections/Repair</a></li>
 </ul>
