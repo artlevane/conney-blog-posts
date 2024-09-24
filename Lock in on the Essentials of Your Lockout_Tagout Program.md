@@ -1,3 +1,16 @@
+---
+layout: article.njk
+title: "Lock in on the Essentials of Your Lockout/Tagout Program"
+date: "2024-09-24"
+tags:
+  - Facilities Safety
+featureBasedOnTags: ['Facilities Safety']
+banner: "/websphere/blog/assets/images/banner.webp"
+thumbnail: "/websphere/blog/assets/images/chemistry-101-guide-chemical-resistant-gloves.webp"
+permalink: "/posts/essentials-for-your-lockout-tagout-program.html"
+summary: "By selecting the correct lockout/tagout products for the job, you can keep your employees protected and safe."
+---
+
 # Lock in on the Essentials of Your Lockout/Tagout Program
 
 **Meta Description:** By selecting the correct lockout/tagout products for the job, you can keep your employees protected and safe.
