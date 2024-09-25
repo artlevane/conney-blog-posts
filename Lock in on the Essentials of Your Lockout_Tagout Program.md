@@ -6,7 +6,7 @@ tags:
   - Facilities Safety
 featureBasedOnTags: ['Facilities Safety']
 banner: "/websphere/blog/assets/images/banner.webp"
-thumbnail: "/websphere/blog/assets/images/chemistry-101-guide-chemical-resistant-gloves.webp"
+thumbnail: "/websphere/blog/assets/images/lockout-tagout-in-action.webp"
 permalink: "/posts/essentials-for-your-lockout-tagout-program.html"
 summary: "By selecting the correct lockout/tagout products for the job, you can keep your employees protected and safe."
 ---
