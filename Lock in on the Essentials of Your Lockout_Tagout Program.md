@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Lock in on the Essentials of Your Lockout/Tagout Program"
-date: "2024-09-24"
+date: "2024-09-25"
 tags:
   - Facilities Safety
 featureBasedOnTags: ['Facilities Safety']
@@ -35,7 +35,7 @@ This comprehensive approach ensures worker safety and compliance with legal requ
 
 ## What are the kinds of Lockout/Tagout Products Available?
 
-There are a number of products that are common in the lockout/tagout category. We carry a large range of products that can assist your facility with their LOTO program.<br>
+There are a number of products that are common in the lockout/tagout category. We carry a large range of products that can assist your facility with their LOTO program.<br><br>
 
 ### Padlocks
 
@@ -45,14 +45,14 @@ Padlocks are by far the most common lockout/tagout devices. They are typically u
 * Keyed-Alike Padlocks can be opened with the same key. These are useful when a single worker needs to secure multiple points simultaneously.  
 * Master Keyed Padlocks allow a supervisor or safety officer to open multiple locks with a master key, even when individual keys are different.
 
-When choosing a padlock consider that steel padlocks are more durable and resistant to physical tampering. While plastic or composite padlocks may be better suited for electrical applications because they prevent the conduction of electricity.<br>
+When choosing a padlock consider that steel padlocks are more durable and resistant to physical tampering. While plastic or composite padlocks may be better suited for electrical applications because they prevent the conduction of electricity.<br><br>
 
 ### Lockout Hasps
 
 Lockout Hasps allow multiple workers (usually six or more) to apply their padlocks to a single energy isolation point. Each worker places their lock on the hasp, ensuring that the equipment cannot be re-energized until all workers have removed their locks.
 
 * Standard Hasps typically consist of a metal or heavy-duty plastic shackle that can be inserted into a locking point, such as a circuit breaker, valve handle or switch.  
-* Scissors Hasps have two interlocking arms that open and close like a pair of scissors. The arms have a series of holes along their length, which are used for attaching padlocks. When the hasp is closed, the arms overlap, and the holes align, allowing padlocks to be inserted to lock the device in place.<br>
+* Scissors Hasps have two interlocking arms that open and close like a pair of scissors. The arms have a series of holes along their length, which are used for attaching padlocks. When the hasp is closed, the arms overlap, and the holes align, allowing padlocks to be inserted to lock the device in place.<br><br>
 
 ### Valve Lockouts
 
@@ -61,7 +61,7 @@ Valve Lockouts are designed to fit different types of valves and ensure that the
 * Ball Valve Lockouts clamp onto the handle of a ball valve to prevent it from being turned.  
 * Gate Valve Lockouts encapsulate the valve handle, preventing it from being operated.  
 * Butterfly Valve Lockouts secure butterfly valve handles in the off position.  
-* Plug Valve Lockouts prevent access to the handle of plug valves.<br>
+* Plug Valve Lockouts prevent access to the handle of plug valves.<br><br>
 
 ### Circuit Breaker Lockouts
 
@@ -69,7 +69,7 @@ Circuit Breaker Lockouts are designed to secure circuit breakers in the off posi
 
 * Universal Circuit Breaker Lockouts universal circuit breaker lockouts are designed to fit a wide range of circuit breaker models and sizes. These lockouts are compatible with various types of circuit breakers, including single-pole, double-pole and even some three-pole breakers.  
 * Single-Pole Lockouts are designed specifically for single-pole circuit breakers, which are commonly found in residential and commercial electrical panels.  
-* Multi-Pole Lockouts are used to lock out multiple circuit breakers simultaneously. Circuits may involve multiple poles, a multi-pole lockout ensures that all these poles are securely isolated.<br>
+* Multi-Pole Lockouts are used to lock out multiple circuit breakers simultaneously. Circuits may involve multiple poles, a multi-pole lockout ensures that all these poles are securely isolated.<br><br>
 
 ### Electrical Lockouts
 
@@ -78,14 +78,14 @@ Circuit Breaker Lockouts are designed to secure circuit breakers in the off posi
   * Pin-In Lockouts fit over the prongs (pins) of a plug when it is unplugged. The device covers the prongs and prevents them from being inserted back into an outlet.  
   * Pin-Out Lockouts lock out the socket or outlet itself, preventing any plug from being inserted.  
 * Switch Lockouts are used to lock switches in the "off" position, preventing the switch from being flipped.  
-* Electrical Panel Lockouts secure entire electrical panels to prevent unauthorized access.<br>
+* Electrical Panel Lockouts secure entire electrical panels to prevent unauthorized access.<br><br>
 
 ### Cable Lockouts
 
 Cable Lockouts consist of a long, flexible cable that can be threaded through multiple lockout points. The cable is typically made of steel and coated with a durable plastic or vinyl to resist cutting and wear. Cable lockouts can secure multiple energy isolation points or devices that are not easily locked out with other lockout/tagout products.
 
 * Standard Cable Lockouts use a steel cable coated in plastic, with an adjustable locking mechanism.  
-* Retractable Cable Lockouts features a retractable cable for easy storage and deployment.<br>
+* Retractable Cable Lockouts features a retractable cable for easy storage and deployment.<br><br>
 
 ### Lockout Stations and Kits
 
@@ -93,7 +93,7 @@ Lockout Stations and Kits provide organized storage for lockout/tagout devices, 
 
 * Wall-Mounted Lockout Stations are fixed to walls and often include shelves, hooks, and slots for organizing lockout devices and accessories.  
 * Portable Lockout Kits are compact kits that can be carried to different locations within your facility.  
-* Group Lock Boxes are used for group lockout situations, where multiple workers lock out a single device, rather than directly on the energy isolation points themselves. This system ensures that equipment cannot be re-energized until every worker has removed their personal lock from the box.<br>
+* Group Lock Boxes are used for group lockout situations, where multiple workers lock out a single device, rather than directly on the energy isolation points themselves. This system ensures that equipment cannot be re-energized until every worker has removed their personal lock from the box.<br><br>
 
 ### Pneumatic Lockouts
 
@@ -102,7 +102,7 @@ Pneumatic lockouts are used to secure pneumatic energy sources, such as air hose
 * Pneumatic Valve Lockouts secure the handles or levers of pneumatic valves, such as ball valves or gate valves, which control the flow of compressed air or gas.  
 * Pneumatic Plug Lockouts cover the end of pneumatic plugs and fittings to prevent them from being connected or disconnected.  
 * Air Line Lockouts are used to isolate sections of pneumatic tubing or hoses to prevent the flow of compressed air through specific lines.  
-* Regulator Lockouts are used to secure the adjustment knobs or handles of pressure regulators.<br>
+* Regulator Lockouts are used to secure the adjustment knobs or handles of pressure regulators.<br><br>
 
 ### Gas Cylinder Lockouts
 
@@ -110,7 +110,7 @@ Gas cylinder lockouts are safety devices used to secure gas cylinders and preven
 
 * Cylinder Valve Lockouts cover or encase the valve handle of a gas cylinder, preventing it from being opened. The lockout is placed over the valve handle and secured with a padlock.  
 * Cylinder Cap Lockouts are used to secure the protective caps on gas cylinders. They ensure that the cap, which protects the valve, remains in place.  
-* Regulator Lockouts are used to secure the adjustment controls on gas regulators.<br>
+* Regulator Lockouts are used to secure the adjustment controls on gas regulators.<br><br>
 
 ### Tags
 
@@ -119,10 +119,10 @@ Tags are used in conjunction with lockout devices to provide information about t
 * Standard Lockout/Tagout Tags typically include fields for the name, date, and reason for the lockout.  
 * Custom Tags can be designed with specific information or warnings pertinent to your facility's operations.
 
-Tags are typically constructed of plastic/PVC because plastic is durable and resistant to harsh environments, including chemicals and extreme temperatures. However, economical paper or cardboard tags can be used in less harsh environments.<br>
+Tags are typically constructed of plastic/PVC because plastic is durable and resistant to harsh environments, including chemicals and extreme temperatures. However, economical paper or cardboard tags can be used in less harsh environments.<br><br>
 
-**Related**: Keeping your facility clean starts with how well your entrance is maintained. [Read more about the options you have for entrance mats and put your best foot forward](https://www.conney.com/websphere/blog/posts/put-your-facilitys-best-foot-forward-with-entrance-mats.html?utm_medium=lockout-tagout-program&utm_source=Blog&utm_campaign=Conney).<br>
+**Related**: Keeping your facility clean starts with how well your entrance is maintained. [Read more about the options you have for entrance mats and put your best foot forward](https://www.conney.com/websphere/blog/posts/put-your-facilitys-best-foot-forward-with-entrance-mats.html?utm_medium=lockout-tagout-program&utm_source=Blog&utm_campaign=Conney).<br><br>
 
-By understanding the various types of [lockout/tagout products](https://www.conney.com/category/facilities-safety-lockout-tagout?utm_medium=lockout-tagout-program&utm_source=Blog&utm_campaign=Conney) available and their appropriate applications, facility managers and safety officers can better equip their teams to handle energy isolation tasks safely and efficiently.<br>
+By understanding the various types of [lockout/tagout products](https://www.conney.com/category/facilities-safety-lockout-tagout?utm_medium=lockout-tagout-program&utm_source=Blog&utm_campaign=Conney) available and their appropriate applications, facility managers and safety officers can better equip their teams to handle energy isolation tasks safely and efficiently.<br><br>
 
 If you have further questions, feel free to contact our [Safety Support Team](https://www.conney.com/pages/safetyservices?utm_medium=lockout-tagout-program&utm_source=Blog&utm_campaign=Conney) to help you select the proper [lockout/tagout products](https://www.conney.com/category/facilities-safety-lockout-tagout?utm_medium=lockout-tagout-program&utm_source=Blog&utm_campaign=Conney) for your workplace. In almost any situation you have, we can offer you options that best fit your budget or specific needs, allowing your employees to work efficiently.
