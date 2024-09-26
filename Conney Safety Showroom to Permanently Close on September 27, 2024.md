@@ -25,4 +25,11 @@ In an effort to ensure you continue to receive the excellent service level you h
 <br>
 If you wish to use our Will Call Service and pick up your order in person, it will be available the next business day between 8 am and 4 pm at our 3202 Latham Drive warehouse facility.
 <br><br>
+<ul>
+    <li>Orders can be picked up at our warehouse door. Your order will include a packaging list for you to review.
+    <li>We no longer offer same day pick up. Contact your sales representative for unique situations that may require expedited pick up and they will work with you.
+    <li>If you would like to return an order to our warehouse, please contact your sales representative first. We do not allow in-person returns without prior authorization.
+    <li>If your order is not picked up in two weeks, it will be canceled.
+</ul>
+<br>
 If you have any questions regarding this change, please contact your sales representative or call us at 888-356-9100.
