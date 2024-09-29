@@ -8,7 +8,7 @@ tags:
 featureBasedOnTags: ['Protection', 'Respiratory Protection']
 banner: "banner.webp"
 thumbnail: "3m-secure-click-full-face-respirator-protection-that-clicks.webp"
-permalink: "3m-secure-click-full-face-respirator-protection-that-clicks.html"
+permalink: "/posts/3m-secure-click-full-face-respirator-protection-that-clicks.html"
 summary: "The new 3M&trade; Secure Click&trade; full face respirator connection works the same way as a seat belt. Simply align the connections and push in until you hear a click."
 ---
 
