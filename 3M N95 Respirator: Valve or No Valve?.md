@@ -5,8 +5,8 @@ date: "2021-12-22"
 tags:
   - Pandemic
 featureBasedOnTags: ["Pandemic"]
-banner: "/websphere/blog/assets/images/banner-3m-n95-respirator-valve-or-no-valve.webp"
-thumbnail: "/websphere/blog/assets/images/3m-n95-respirator-valve-or-no-valve.webp"
+banner: "banner-3m-n95-respirator-valve-or-no-valve.webp"
+thumbnail: "3m-n95-respirator-valve-or-no-valve.webp"
 permalink: "/posts/3m-n95-respirator-valve-or-no-valve.html"
 summary: "3M N95 Respirators have gained popularity as a top choice of PPE during the pandemic. Learn more about the N95 and whether you should choose valve or no valve."
 ---
