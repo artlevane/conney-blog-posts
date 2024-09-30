@@ -5,7 +5,7 @@ date: "2023-01-12"
 tags:
   - Pandemic
 featureBasedOnTags: ['Pandemic']
-banner: "/websphere/blog/assets/images/banner.webp"
+banner: "banner.webp"
 thumbnail: "10-ways-to-create-a-covidfree-winter-workplace.webp"
 permalink: "10-ways-to-create-a-covidfree-winter-workplace.html"
 summary: "10 Ways to Create a COVID-Free Winter Workplace"
