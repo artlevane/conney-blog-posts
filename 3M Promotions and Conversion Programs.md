@@ -5,9 +5,9 @@ date: "2023-01-20"
 tags:
   - Workplace Safety
 featureBasedOnTags: ['Workplace Safety']
-banner: "/websphere/blog/assets/images/banner.webp"
-thumbnail: "/websphere/blog/assets/images/3m-promotions-and-conversion-programs.webp"
-permalink: "/posts/3m-promotions-and-conversion-programs.html"
+banner: "banner.webp"
+thumbnail: "3m-promotions-and-conversion-programs.webp"
+permalink: "3m-promotions-and-conversion-programs"
 summary: "Contact your Conney Sales Rep to place a qualified 3M order, and take advantage of these great trade in programs."
 ---
 
