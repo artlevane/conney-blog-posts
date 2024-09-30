@@ -6,8 +6,8 @@ tags:
   - Pandemic
 featureBasedOnTags: ['Pandemic']
 banner: "banner.webp"
-thumbnail: "10-ways-to-create-a-covidfree-winter-workplace.webp"
-permalink: "10-ways-to-create-a-covidfree-winter-workplace.html"
+thumbnail: "/websphere/blog/assets/images/10-ways-to-create-a-covidfree-winter-workplace.webp"
+permalink: "/posts/10-ways-to-create-a-covidfree-winter-workplace.html"
 summary: "10 Ways to Create a COVID-Free Winter Workplace"
 ---
 
