@@ -6,8 +6,8 @@ tags:
   - Workplace Safety
 featureBasedOnTags: ['Workplace Safety']
 banner: "banner.webp"
-thumbnail: "3m-promotions-and-conversion-programs.webp"
-permalink: "3m-promotions-and-conversion-programs"
+thumbnail: "/websphere/blog/assets/images/3m-promotions-and-conversion-programs.webp"
+permalink: "/posts/3m-promotions-and-conversion-programs.html"
 summary: "Contact your Conney Sales Rep to place a qualified 3M order, and take advantage of these great trade in programs."
 ---
 
