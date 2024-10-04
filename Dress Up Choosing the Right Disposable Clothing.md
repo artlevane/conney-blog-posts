@@ -1,7 +1,7 @@
 ---  
 layout: article.njk  
 title: "Dress Up: Choose the Right Disposable Coveralls and Clothing"  
-date: "2024-10-4"  
+date: "2024-10-04"  
 tags:  
   - Protective Clothing  
 featureBasedOnTags: ['Protective Clothing']  
