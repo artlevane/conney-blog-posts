@@ -4,7 +4,7 @@ title: "Dress Up: Choose the Right Disposable Coveralls and Clothing"
 date: "2024-10-4"
 tags:
   - Protective Clothing
-featureBasedOnTags: ['Protective Clothing'\]
+featureBasedOnTags: ['Protective Clothing']
 banner: "/websphere/blog/assets/images/banner.webp"
 thumbnail: "/websphere/blog/assets/images/dress-up-disposable-coveralls.webp"
 permalink: "/posts/choose-the-right-disposable-coveralls-and-clothing.html"
