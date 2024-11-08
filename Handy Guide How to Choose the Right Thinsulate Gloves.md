@@ -5,8 +5,7 @@ date: "2024-01-23"
 tags:
   - Protection
   - Hand Protection
-  - Winter Work Safety
-featureBasedOnTags: ["All"]
+featureBasedOnTags: ["Hand Protection"]
 banner: "/websphere/blog/assets/images/banner-handy-guide-how-to-choose-right-thinsulate-gloves.webp"
 thumbnail: "/websphere/blog/assets/images/handy-guide-how-to-choose-right-thinsulate-gloves.webp"
 permalink: "/posts/handy-guide-how-to-choose-right-thinsulate-gloves.html"
