@@ -7,7 +7,7 @@ tags:
 featureBasedOnTags: ['Hand Protection']
 banner: "/websphere/blog/assets/images/banner-coated-glove.webp"
 thumbnail: "/websphere/blog/assets/images/worker-putting-on-coated-gloves.webp"
-permalink: "/posts/a-complete-guide-to-coated-gloves.html"
+permalink: "/posts/get-a-grip-a-complete-guide-to-coated-gloves.html"
 summary: "Coated gloves are work gloves that feature a coating applied to the palm, fingers or both, providing additional protection, grip and durability."
 ---
 
