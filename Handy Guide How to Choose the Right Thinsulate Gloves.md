@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Handy Guide: Choose the Right Thinsulate Gloves"
-date: "2024-01-23"
+date: "2024-11-18"
 tags:
   - Protection
   - Hand Protection
@@ -12,7 +12,7 @@ permalink: "/posts/handy-guide-how-to-choose-right-thinsulate-gloves.html"
 summary: "Thinsulate gloves have become a must-have for workers seeking warmth, comfort and performance in wet and dry conditions."
 ---
 
-<h2 class="intro">Thinsulate gloves have become a must-have for workers seeking supreme warmth, comfort and performance in both wet and dry conditions.</h2>
+Thinsulate gloves have become a must-have for workers seeking supreme warmth, comfort and performance in both wet and dry conditions.
 <br>
 Originally made for the U.S. Army in the mid-1980s, Thinsulate&#8482; has taken the place of down feathers and other materials as a top choice for insulating winter weather gloves.
 <br><br>
@@ -59,7 +59,7 @@ Thankfully, Thinsulate&#8482; gloves retain their warmth even when they get wet 
     <li><strong>Extreme cold and arctic conditions</strong>: 200 &ndash; 800 GSM may be required for temperatures below -30&deg;F/-34&deg;C</li>
 </ul>
 <br>
-<h2>What glove styles with Thinsulate&#8482; does Conney Safety offer?</h2>
+<h2>What glove styles with Thinsulate&#8482; does Wesco offer?</h2>
 To browse our full line of Thinsulate&#8482; gloves, check out all of our options on our website here and stay warm out there.
 <br><br>
 <a href="https://www.conney.com/style/superior-glove-endura-winter-goat-grain-driver-gloves-with-kevlar-composite-filament-fiber-and-thinsulate-white?utm_medium=Thinsulate&utm_source=Blog&utm_campaign=Superior">Endura&reg; Winter Goat-Grain Driver Gloves made with Dupont&#8482; Kevlar&reg; Fiber and Thinsulate&#8482; Lining</a>
@@ -90,4 +90,4 @@ These gloves are right at home in wet and blustery cold indoor or outdoor condit
 <strong>Related</strong>: Thinsulate is not the only type of winter work gloves we offer at Conney. Read our <a href="https://conney.com/websphere/blog/posts/winter-work-gloves-and-freezer-gloves-selection-guide.html/winter-work-gloves-and-freezer-gloves-selection-guide?utm_medium=Thinsulate&utm_source=Blog&utm_campaign=Conney">winter work gloves selection guide</a> to learn more.
 <br><br>
 <h2>Where can I purchase Thinsulate&#8482; gloves?</h2>
-Wesco is a proud distributor of Thinsulate&#8482;-lined gloves from Superior Glove, MCR, Honeywell, and more. You can order from our complete supply of Superior Glove winter weather gloves at <a href="conney.com">Conney.com</a>.
+Wesco is a proud distributor of Thinsulate&#8482;-lined gloves from Superior Glove, MCR, Honeywell, and more. You can order from our complete supply of Superior Glove winter weather gloves at <a href="Wesco">Conney.com</a>.
