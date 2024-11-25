@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Use Your Head When Choosing a [Full-Brim] Hard Hat"
-date: "2023-03-17"
+date: "2024-11-25"
 tags:
   - Fall Protection
   - Head Protection
@@ -28,6 +28,8 @@ In this article, we'll discuss the different types of hard hats available and ho
 </ul>
 <br>
 Both styles can be fitted with accessories such as face shields, earmuffs and chin straps for additional protection.
+<br><br>
+<b>Related:</b> Should you choose a hard hat or safety helmet with a chin strap for your head protection? <a href="https://www.conney.com/websphere/blog/posts/hard-hats-construction-safety-helmets-chin-strap.html?utm_medium=full-brim-hard-hat&utm_source=Blog&utm_campaign=Conney">Read our full article on safety hard hats and helmets here</a>.
 <br><br>
 <h3>How do I know if my hard hat protects against electrical shock?</h3>
 <br>
