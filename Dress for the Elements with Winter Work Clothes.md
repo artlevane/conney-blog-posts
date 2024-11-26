@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: "Dress for the Elements with Winter Work Clothes"
-date: "2022-12-08"
+date: "2024-11-26"
 tags:
   - Winter Work Safety
 featureBasedOnTags: ["Winter Work Safety"]
@@ -78,5 +78,7 @@ For a high-quality sweatshirt in outdoor conditions, look no further. These are 
 <br><br>
 <a href="https://www.conney.com/style/occunomix-tri-band-reflective-knit-beanie?PMWTNO=000000000387281&utm_medium=winter-work-clothes&utm_source=Blog&utm_campaign=OccuNomix">OccuNomix Tri-Band Reflective Knit Beanie</a>
 Be seen and warm, day and night with this OccuNomix rib knit acrylic beanie with three bands of reflective thread for increased visibility. Features interior brushed, anti-pilling fleece for comfort and full 360° ear and forehead coverage. The ergonomic shape helps to protect the head and ears from cold.
+<br><br>
+**Related**: Be prepared for driving this winter with this [list of top 12 driving tips and stay safe](https://www.conney.com/websphere/blog/posts/top-12-winter-driving-tips.html?utm_medium=winter-work-clothes&utm_source=Blog&utm_campaign=Conney)\!
 <br><br>
 <a href="https://www.conney.com/pages/safetyservices?utm_medium=winter-work-clothes&utm_source=Blog&utm_campaign=Conney">Our Safety Support Team</a> is always available to discuss your cold weather workplace applications and to help you choose the right winter work clothing to keep your workforce warm and protected.
